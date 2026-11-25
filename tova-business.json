@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:19:33.668Z",
+  "slug": "volkspower",
+  "name": "Volkspower Service & Spares",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Mechanics & car repair",
+    "niche": "mechanics & car repair",
+    "group": "Retail & automotive"
+  },
+  "contact": {
+    "phone": "+6433667755",
+    "email": "service@volkspower.co.nz",
+    "address": "Christchurch"
+  },
+  "social": {},
+  "about": {
+    "overview": "Volkspower are Christchurch's Most Experienced Volkswagen and Audi Specialists. We are passionate about Volkswagen and Audi vehicles. Visit us at 400 Tuam Street, Christchurch. ph: 0508 89 3276",
+    "services": [
+      "Talk to our experienced friendly team",
+      "Location",
+      "We Offer Full Service & Repairs",
+      "Regular service : hassle free motoring"
+    ]
+  },
+  "before": {
+    "url": "http://www.volkspower.co.nz",
+    "domain": "volkspower.co.nz",
+    "finalUrl": "http://www.volkspower.co.nz/",
+    "title": "Volkspower Service & Spares : About Volkspower",
+    "pages": 6,
+    "score": 87,
+    "assessedAt": "2026-11-21T12:54:45.165Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.volkspower.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2011, 15 years ago."
+      },
+      {
+        "id": "img-alt",
+        "title": "Images missing descriptions",
+        "evidence": "5 of 5 images have no alt text (accessibility and SEO)."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/volkspower-service-spares/",
+    "repoUrl": "https://github.com/tova-studio/volkspower-service-spares",
+    "generator": "claude",
+    "accent": "#1066a7",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:19:33.668Z"
+  }
+}
